@@ -1,0 +1,6 @@
+
+Ejemplos de hardware:
+
+Procesador: El procesador es el componente principal de una computadora y se encarga de realizar cálculos y ejecutar instrucciones.
+Memoria RAM: La memoria RAM es un tipo de memoria volátil que se utiliza para almacenar datos y programas en ejecución.
+Disco duro: El disco duro es un dispositivo de almacenamiento permanente que se utiliza para guardar archivos y programas de forma persistente.

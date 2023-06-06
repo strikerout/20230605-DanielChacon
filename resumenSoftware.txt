@@ -1,0 +1,5 @@
+Ejemplos de software:
+
+Sistema operativo: Un sistema operativo como Windows, macOS o Linux, es un software que gestiona los recursos de la computadora y permite a los usuarios interactuar con ella.
+Navegador web: Ejemplos de navegadores web son Google Chrome, Mozilla Firefox y Microsoft Edge, que permiten acceder y navegar por Internet.
+Suite de oficina: Una suite de oficina como Microsoft Office o Google Workspace incluye programas como Word, Excel y PowerPoint, que se utilizan para crear documentos, hojas de cálculo y presentaciones.

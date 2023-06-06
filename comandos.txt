@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m "commit 01 de DanielChacon"
+git remote add origin https://github.com/strikerout/20230605-DanielChacon.git
+git push origin main
+git checkout -b feature
+git add .
+git commit -m "commit 02 de DanielChacon"
+git push origin feature
+git checkout main
+git add .
+git commit -m "commit 03 de DanielChacon"
+git push
